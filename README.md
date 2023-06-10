@@ -1,1 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=eeeunbiiii's%20Github!&fontSize=70&fontColor=ffffff&fontAlign=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Eunbi%20Github!&fontSize=70&fontColor=ffffff&fontAlign=70&animation=fadeIn&fontAlignY=44)
+<br>
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeeunbiiii&theme=dark&layout=donut"/>
+  <br></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=eeeunbiiii&theme=dark"/>
+</div>
