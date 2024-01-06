@@ -3,6 +3,5 @@
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeeunbiiii&theme=dark&layout=donut"/>
-  <br></br>
-  <img src="https://github-readme-stats.vercel.app/api?username=eeeunbiiii&theme=dark"/>
+  
 </div>
