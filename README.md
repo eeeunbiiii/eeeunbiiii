@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Eunbi%20Github!&fontSize=70&fontColor=ffffff&fontAlign=70&animation=fadeIn&fontAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Hello%20Github!&fontSize=70&fontColor=ffffff&fontAlign=70&animation=fadeIn&fontAlignY=44)
 <br>
 
 <div style="display: flex; justify-content: center;">
