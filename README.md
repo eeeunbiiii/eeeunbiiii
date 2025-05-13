@@ -1,1 +1,3 @@
-👋 Currently juggling Cyber Security and Statistics at Ewha Womans University
+📚 Student @ Cybersecurity × Statistics
+🔐 Merging AI with Cybersecurity
+💻 Powered by Python, driven by purpose
