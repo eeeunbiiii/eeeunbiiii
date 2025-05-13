@@ -1,3 +1,3 @@
-📚 Student @ Cybersecurity × Statistics
-🔐 Merging AI with Cybersecurity
-💻 Powered by Python, driven by purpose
+📚 Student @ Cybersecurity × Statistics<br>
+🔐 Merging AI with Cybersecurity<br>
+💻 Powered by Python, driven by purpose<br>
